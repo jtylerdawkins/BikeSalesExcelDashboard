@@ -2,7 +2,7 @@
 <br>
 This is a simple dashboard Excel project using bike sales data.
 <br>
-Excel features used and learned in this project:
+Excel features used and learned in this project:<br>
 •	Duplicate data removed from data set.<br>
 •	Find and Replace (Ctrl + H on Windows) to replace M and S with Married and Single under the marital status columns to provide better clarity.<br>
 •	Changed the Income column from General to Currency.<br>
