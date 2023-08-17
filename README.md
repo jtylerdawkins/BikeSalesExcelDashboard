@@ -13,4 +13,6 @@ Excel features used and learned in this project:<br>
 •	Created a Dashboard using the Pivot Tables with Slicers for Marital Status, Education, and Region.<br>
 <br><br>
 Images<br>
-![alt text](https://github.com/jtylerdawkins/BikeSalesExcelDashboard/blob/main/BikeDashboardPic1.PNG?raw=true)
+
+![alt text](https://github.com/jtylerdawkins/SimpleExcelCarDatabaseProject/blob/main/BikeDashboardPic1.PNG?raw=true)
+![alt text](https://github.com/jtylerdawkins/SimpleExcelCarDatabaseProject/blob/main/BikeDashboardPic2.PNG?raw=true)
