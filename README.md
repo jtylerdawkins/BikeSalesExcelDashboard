@@ -12,4 +12,6 @@ Excel features used and learned in this project:<br>
 •	Created a third Pivot Table with the newly added Age Brackets column to see if age affects whether someone purchases a bike or not.<br>
 •	Created a Dashboard using the Pivot Tables with Slicers for Marital Status, Education, and Region.<br>
 <br><br>
-Images
+Images<br>
+![Alt text](https://github.com/jtylerdawkins/BikeSalesExcelDashboard/blob/main/BikeDashboardPic1.PNG)<br>
+![Alt text](https://github.com/jtylerdawkins/BikeSalesExcelDashboard/blob/main/BikeDashboardPic2.PNG)
